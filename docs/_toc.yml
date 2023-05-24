@@ -9,6 +9,7 @@ parts:
   - file: markdown
   - file: notebooks
   - file: markdown-notebooks
+  - file: DB_RecFull
 - caption: Cool extensions 🕶️
   chapters:
   - file: intersphinx
