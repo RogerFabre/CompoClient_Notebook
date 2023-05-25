@@ -3,7 +3,6 @@
 
 format: jb-book
 root: introduccio
-caption: Introducció
 parts:
 - caption: Catàleg de dades
   chapters:
