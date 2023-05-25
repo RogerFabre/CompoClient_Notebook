@@ -13,6 +13,9 @@ El principal objectiu d'aquest projecte és utilitzar les dades recopilades per 
 3. **Fidelitat dels clients**: Analitzarem el comportament dels clients fidels per entendre les seves preferències i hàbits de compra. Això ens ajudarà a retenir aquests clients importants i millorar la seva experiència de compra.
 
 
+`````{warning} Atenció
+Aquest text és només de prova i podría contenir errors!
+`````
 ## Dades Disponibles
 
 Disposem d'una àmplia varietat de dades per dur a terme aquesta anàlisi. Algunes de les dades més rellevants que tenim disponibles són:
