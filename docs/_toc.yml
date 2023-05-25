@@ -10,7 +10,7 @@ parts:
   - file: Client_Llar
     title: Client/Llar
   - file: lol.md
-    title: testings de titol 
+    title: Tiquets
   - file: markdown-notebooks
     sections:
         - file: test
