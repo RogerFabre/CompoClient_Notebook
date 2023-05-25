@@ -8,6 +8,8 @@ parts:
   chapters:
   - file: markdown
   - file: abc
+  - file: notebook
+  - file: abc_2
   - file: markdown-notebooks
     sections:
         - file: test
