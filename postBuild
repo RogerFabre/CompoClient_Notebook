@@ -4,5 +4,3 @@
 set -e
 # We reuse the requirements from the documentation project
 pip install -r docs/requirements.txt
-
-jupyter-book build --toc _toc.yml

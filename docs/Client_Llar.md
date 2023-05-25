@@ -1,4 +1,4 @@
-#Clients Llars
+# Clients Llars
 
 En aquesta secció, explorarem les variables relacionades amb cada client o llar. A continuació, es presenta una descripció detallada de les variables disponibles, el seu format de dades i els noms corresponents a les taules de la base de dades.
 
