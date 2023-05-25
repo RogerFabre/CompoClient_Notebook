@@ -1,34 +1,52 @@
+---
+jupytext:
+  cell_metadata_filter: -all
+  formats: md:myst
+  text_representation:
+    extension: .md
+    format_name: myst
+    format_version: 0.13
+    jupytext_version: 1.11.5
+kernelspec:
+  display_name: Python 3
+  language: python
+  name: python3
+---
+
 #Clients/Llars
 
 En aquesta secció, explorarem les variables relacionades amb cada client o llar. A continuació, es presenta una descripció detallada de les variables disponibles, el seu format de dades i els noms corresponents a les taules de la base de dades.
 
-## Data Naixement (DTNaixement)
+## Data de Naixement 
 
-- **Descripció**: Data de naixement del client.
+Data de naixement del client.
+
 - **Format de Dades**: YYYY-MM-DD.
 - **Exemple**: 1985-07-15
 
-## Gènere (CODGenere)
+## Gènere
 
-- **Descripció**: Gènere amb el qual s'identifica el client.
+Gènere amb el qual s'identifica el client.
+
 - **Format de Dades**: H (home), D (dona), A (altres).
 - **Exemple**: H (home)
 
-## Estat Civil (CODEstatCivil)
+## Estat Civil 
 
-- **Descripció**: Indica si l'estat de la llar és actiu (>=1) o inactiu (0).
+Indica si l'estat de la llar és actiu (>=1) o inactiu (0).
 - **Format de Dades**: Enter.
 - **Exemple**: 1 (actiu)
 
-## Codi Postal (CODCodiPostal)
+## Codi Postal 
 
-- **Descripció**: Codi postal de la població on resideix el client.
+Codi postal de la població on resideix el client.
+
 - **Format de Dades**: Cadena de caràcters (string).
 - **Exemple**: "08001"
 
-## Població (DEPoblacio)
+## Població
 
-- **Descripció**: Nom de la població on resideix el client.
+Nom de la població on resideix el client.
 - **Format de Dades**: Cadena de caràcters (string).
 - **Exemple**: "Barcelona"
 
