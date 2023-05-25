@@ -1,112 +1,92 @@
-# Taula de Dades
+# Client/Llar
 
----
+En aquest apartat detallem les variables més rellevants dels nostres clients o llars. A continuació, tenim una descripció de cada variable juntament amb exemples dels valors que pot prendre:
 
-## Títol: Data Naixement
+## DTNaixement
 
 **Descripció:** Data de naixement del client.
 
-**Valors permesos:** data amb format YYYY-MM-DD.
+**Exemple:** 1990-06-15
 
-**Camp:** DTNaixement
-
-**Exemple de valors:** 1990-01-01, 1985-05-10, 1978-12-31
-
-
-## Títol: Gènere
+## CODGenere
 
 **Descripció:** Gènere amb el qual s'identifica el client.
 
-**Valors permesos:** H (Home), D (Dona), A (Altres).
+**Valors:**
+- H: Home
+- D: Dona
+- A: Altres
 
-**Camp:** CODGenere
+**Exemple:** H
 
-**Exemple de valors:** H (Home), D (Dona), A (Altres)
+## CODEstatCivil
 
+**Descripció:** Indica si l'estat de la llar és actiu o inactiu.
 
-## Títol: Estat Civil
+**Valors:**
+- >=1: Actiu
+- 0: Inactiu
 
-**Descripció:** Estat civil de la llar del client.
+**Exemple:** 1
 
-**Valors permesos:** Número enter igual o superior a 1 si l'estat de la llar és actiu; 0 si està inactiva.
-
-**Camp:** CODEstatCivil
-
-**Exemple de valors:** 0, 1, 2, 3
-
-
-## Títol: Codi Postal
+## CODCodiPostal
 
 **Descripció:** Codi postal de la població.
 
-**Valors permesos:** Text.
+**Exemple:** 08001
 
-**Camp:** CODCodiPostal
-
-**Exemple de valors:** 08001, 12345, 98765
-
-
-## Títol: Població
+## DEPoblacio
 
 **Descripció:** Nom de la població.
 
-**Valors permesos:** Text.
+**Exemple:** Barcelona
 
-**Camp:** DEPoblacio
-
-**Exemple de valors:** Barcelona, Madrid, València
-
-
-## Títol: Idioma preferit
+## CODIdioma
 
 **Descripció:** Idioma seleccionat com a principal pel client.
 
-**Valors permesos:** ca (català), es (espanyol).
+**Valors:**
+- ca: Català
+- es: Castellà
 
-**Camp:** CODIdioma
+**Exemple:** ca
 
-**Exemple de valors:** ca (català), es (espanyol)
+## CODRegistreApp
 
+**Descripció:** Indica si el client està registrat a l'APP.
 
-## Títol: Registre APP
+**Valors:**
+- 1: Sí
+- 0: No
 
-**Descripció:** Indica si el client està registrat a l'aplicació mòbil.
+**Exemple:** 1
 
-**Valors permesos:** 1 (registrat), 0 (no registrat).
+## CODRegistreWeb
 
-**Camp:** CODRegistreApp
+**Descripció:** Indica si el client està registrat a la WEB.
 
-**Exemple de valors:** 1 (registrat), 0 (no registrat)
+**Valors:**
+- 1: Sí
+- 0: No
 
+**Exemple:** 0
 
-## Títol: Registre Web
+## CODRegistreOnline
 
-**Descripció:** Indica si el client està registrat al web.
+**Descripció:** Indica si el client està registrat a l'ONLINE.
 
-**Valors permesos:** 1 (registrat), 0 (no registrat).
+**Valors:**
+- 1: Sí
+- 0: No
 
-**Camp:** CODRegistreWeb
+**Exemple:** 1
 
-**Exemple de valors:** 1 (registrat), 0 (no registrat)
-
-
-## Títol: Registre Online
-
-**Descripció:** Indica si el client està registrat a l'àrea d'usuari online.
-
-**Valors permesos:** 1 (registrat), 0 (no registrat).
-
-**Camp:** CODRegistreOnline
-
-**Exemple de valors:** 1 (registrat), 0 (no registrat)
-
-
-## Títol: Publicitat
+## CODPubli
 
 **Descripció:** Indica si la llar ha acceptat rebre publicitat.
 
-**Valors permesos:** 1 (acceptada), 0 (no acceptada).
+**Valors:**
+- 1: Sí
+- 0: No
 
-**Camp:** CODPubli
-
-**Exemple de valors:** 1 (acceptada), 0 (no acceptada)
+**Exemple:** 0
