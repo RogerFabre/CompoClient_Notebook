@@ -1,8 +1,11 @@
-(intro)=
+# Anàlisi del comportament dels nostres clients
 
-# Jupyter Book LELELELEL on Read the Docs
 
-This example shows a Jupyter Book project built and published on Read the Docs.
+Benvinguts a la documentació del projecte d'anàlisi de comportament dels clients en el nostre supermercat. Aquest projecte té com a objectiu principal comprendre millor els hàbits de compra dels nostres clients per tal de prendre decisions estratègiques informades i millorar l'experiència global dels clients al nostre establiment.
+
+Per aconseguir aquest objectiu, hem recopilat una àmplia varietat de dades relacionades amb els clients, les seves compres i el supermercat en sí. Aquest conjunt de dades ens permetrà explorar i identificar els factors que influeixen en el comportament dels clients, des de les seves característiques demogràfiques fins a les seves preferències de productes i les seves respostes a les promocions i ofertes.
+
+<!-- This example shows a Jupyter Book project built and published on Read the Docs.
 You're encouraged to use it to get inspiration and copy & paste from the files in [the source code repository][github]. In the source repository, you will also find the relevant configuration and instructions for building Jupyter Book projects on Read the Docs.
 
 If you are using Read the Docs for the first time, have a look at the official [Read the Docs Tutorial][tutorial].
@@ -33,14 +36,16 @@ We have also added some popular features for Jupyter Book that really you should
 * [intersphinx to link to other documentation and Jupyter Book projects](/intersphinx)
 * [sphinx-examples to show examples and results side-by-side](/sphinx-examples)
 * [sphinx-hoverxref to preview cross-references](/sphinx-hoverxref)
-* [sphinx-proof for logic and math, to write proofs, theorems, lemmas etc.](/sphinx-proof)
+* [sphinx-proof for logic and math, to write proofs, theorems, lemmas etc.](/sphinx-proof) -->
 
 
 ## Table of Contents
 
 Here is an automatically generated Tabel of Contents:
 
-```{tableofcontents}
+```
+{tableofcontents}
+
 ```
 
 [github]: https://github.com/readthedocs-examples/example-jupyter-book/ "GitHub source code repository for the example project"

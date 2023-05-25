@@ -4,10 +4,10 @@
 format: jb-book
 root: intro
 parts:
-- caption: Basic examples 🪄
+- caption: Catàleg de dades
   chapters:
   - file: markdown
-  - file: notebooks
+  - file: abc
   - file: markdown-notebooks
     sections:
         - file: test
