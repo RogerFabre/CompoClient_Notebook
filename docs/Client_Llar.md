@@ -16,6 +16,12 @@ Gènere amb el qual s'identifica el client.
 - **Format**: H (home), D (dona), A (altres).
 - **Exemple**: H (home)
 
+`````{admonition} Exemple
+:class: tip
+**Format**: H (home), D (dona), A (altres).
+**Exemple**: H (home)
+`````
+
 ##### Estat Civil 
 
 Indica si l'estat de la llar és actiu (>=1) o inactiu (0).
