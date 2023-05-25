@@ -3,11 +3,14 @@
 
 format: jb-book
 root: introduccio
+title: Introducció
 parts:
 - caption: Catàleg de dades
   chapters:
-  - file: notebook
+  - file: Client_Llar
+    title: Client/Llar
+    
   - file: markdown-notebooks
     sections:
         - file: test
-  - file: Client_Llar
+  
