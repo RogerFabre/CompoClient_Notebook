@@ -9,7 +9,8 @@ parts:
   chapters:
   - file: Client_Llar
     title: Client/Llar
-    
+  - file: lol.md
+    title: testings de titol 
   - file: markdown-notebooks
     sections:
         - file: test
