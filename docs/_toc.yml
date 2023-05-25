@@ -7,17 +7,13 @@ parts:
 - caption: Catàleg de dades
   chapters:
   - file: markdown
-  - file: abc
   - file: notebook
-  - file: abc_2
   - file: markdown-notebooks
     sections:
         - file: test
   - file: DB_RecFull
-- caption: Cool extensions 🕶️
+- caption: Altres 🕶️
   chapters:
   - file: intersphinx
-  - file: sphinx-examples
-  - file: sphinx-hoverxref
-  - file: sphinx-proof
+
 
