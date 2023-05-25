@@ -1,18 +1,3 @@
----
-jupytext:
-  cell_metadata_filter: -all
-  formats: md:myst
-  text_representation:
-    extension: .md
-    format_name: myst
-    format_version: 0.13
-    jupytext_version: 1.11.5
-kernelspec:
-  display_name: Python 3
-  language: python
-  name: python3
----
-
 #Clients/Llars
 
 En aquesta secció, explorarem les variables relacionades amb cada client o llar. A continuació, es presenta una descripció detallada de les variables disponibles, el seu format de dades i els noms corresponents a les taules de la base de dades.
