@@ -8,6 +8,10 @@ En aquest apartat detallem les variables més rellevants dels nostres clients o 
 
 **Exemple:** 1990-06-15
 
+```{note}
+In the above `reStructuredText` example, we use `{eval-rst}` to write reST inside a `.md` file (i.e. the one you are reading now). You only need to use this directive if you are writing reST code in a `.md` file.
+```
+
 ## CODGenere
 
 **Descripció:** Gènere amb el qual s'identifica el client.

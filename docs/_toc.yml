@@ -2,7 +2,8 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: intro
+root: introduccio
+caption: Introducció
 parts:
 - caption: Catàleg de dades
   chapters:
@@ -10,11 +11,4 @@ parts:
   - file: markdown-notebooks
     sections:
         - file: test
-  - file: Client_Llar.md
   - file: Client_Llar
-  - file: DB_RecFull
-- caption: Altres 🕶️
-  chapters:
-  - file: intersphinx
-
-
