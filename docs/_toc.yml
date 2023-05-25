@@ -6,11 +6,12 @@ root: intro
 parts:
 - caption: Catàleg de dades
   chapters:
-  - file: markdown
   - file: notebook
   - file: markdown-notebooks
     sections:
         - file: test
+  - file: Client_Llar.md
+  - file: Client_Llar
   - file: DB_RecFull
 - caption: Altres 🕶️
   chapters:
