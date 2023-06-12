@@ -2,8 +2,8 @@
 
 Benvinguts a l'anàlisi en profunditat del comportament dels nostres clients. En aquest projecte, explorarem les dades disponibles de l'empresa per comprendre millor els patrons de compra, els hàbits dels clients i altres aspectes rellevants per a la presa de decisions estratègiques.
 
-
-```{Nota informativa} 
+```{admonition} Nota informativa
+:class: tip
 Aquesta és només una demostració del potencial dels jupyter {books}
 ```
 
