@@ -2,6 +2,11 @@
 
 Benvinguts a l'anàlisi en profunditat del comportament dels nostres clients. En aquest projecte, explorarem les dades disponibles de l'empresa per comprendre millor els patrons de compra, els hàbits dels clients i altres aspectes rellevants per a la presa de decisions estratègiques.
 
+
+```{Nota informativa} 
+Aquesta és només una demostració del potencial dels jupyter {books}
+```
+
 ## Descripció del Projecte
 
 El principal objectiu d'aquest projecte és utilitzar les dades recopilades per Bonpreu per obtenir coneixements valuosos sobre els clients i el seu comportament de compra. Analitzarem les dades disponibles per comprendre els següents aspectes:
